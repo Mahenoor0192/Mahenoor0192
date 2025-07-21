@@ -1,23 +1,17 @@
 
 <h1 align="center">👋 Hello there! I'm Mahenoor Memon</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
-
-
-
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 ***I'm a passionate and curious developer currently pursuing my Bachelor's in Computer Science and Technology.***
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-- 💻 I work with **React**, **Django**, **Java**, **Python**, and **MySQL**
-- 🎨 I enjoy crafting beautiful **UI/UX in Figma** and turning them into responsive, clean frontends
-- 📱 Currently building amazing mobile apps with **React Native (Expo)**
-- 🧠 Always exploring — from **AI tools** to **cloud deployment**
-- 💡 I believe in **solving real-world problems** with elegant, practical code
+### - 💻 I work with **React**, **Django**, **Java**, **Python**, and **MySQL**
+### - 🎨 I enjoy crafting beautiful **UI/UX in Figma** and turning them into responsive, clean frontends
+### - 📱 Currently building amazing mobile apps with **React Native (Expo)**
+### - 🧠 Always exploring — from **AI tools** to **cloud deployment**
+### - 💡 I believe in **solving real-world problems** with elegant, practical code
 
 ---
 
@@ -35,7 +29,11 @@
 
 If you’re looking for a developer who’s creative, technically sharp, and truly passionate about quality — **I’m ready to bring your vision to life.**
 
-⭐ *Thanks for stopping by my GitHub! Let’s build something incredible together.*  
+⭐ *Thanks for stopping by my GitHub! Let’s build something incredible together.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 
 <p align="center">
   <i>“Code with heart, build with purpose.”</i>
