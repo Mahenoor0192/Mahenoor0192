@@ -7,11 +7,11 @@
 ***I'm a passionate and curious developer currently pursuing my Bachelor's in Computer Science and Technology.***
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-### - 💻 I work with **React**, **Django**, **Java**, **Python**, and **MySQL**
-### - 🎨 I enjoy crafting beautiful **UI/UX in Figma** and turning them into responsive, clean frontends
-### - 📱 Currently building amazing mobile apps with **React Native (Expo)**
-### - 🧠 Always exploring — from **AI tools** to **cloud deployment**
-### - 💡 I believe in **solving real-world problems** with elegant, practical code
+- 💻 I work with **React**, **Django**, **Java**, **Python**, and **MySQL**
+- 🎨 I enjoy crafting beautiful **UI/UX in Figma** and turning them into responsive, clean frontends
+- 📱 Currently building amazing mobile apps with **React Native (Expo)**
+- 🧠 Always exploring — from **AI tools** to **cloud deployment**
+- 💡 I believe in **solving real-world problems** with elegant, practical code
 
 ---
 
